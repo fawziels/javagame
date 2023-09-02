@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="res"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jre1.8.0_181/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jre1.8.0_181/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jre1.8.0_181/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jre1.8.0_181/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jre1.8.0_181/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jre1.8.0_181/lib/jfxswt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jre1.8.0_181/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jre1.8.0_181/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jre1.8.0_181/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jre1.8.0_181/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jre1.8.0_181/lib/rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jdk1.8.0_181/lib/ant-javafx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jdk1.8.0_181/lib/dt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jdk1.8.0_181/lib/javafx-mx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jdk1.8.0_181/lib/jconsole.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jdk1.8.0_181/lib/packager.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jdk1.8.0_181/lib/sa-jdi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/jdk1.8.0_181/lib/tools.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/Libs/Libs/jars/jinput.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/Libs/Libs/jars/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/Libs/Libs/jars/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/Libs/Libs/jars/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Admin/Java/Libs/Libs/lwjgl/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Java/Libs/Libs/jars/slick.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
